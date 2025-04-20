@@ -1,4 +1,4 @@
-The Ember Index is a gentle system for tracking and revisiting your suspended fixations — creative projects, intellectual obsessions, half-finished builds, forgotten puzzles, abandoned sparks.
+The Ember Index for Obsidian is a gentle system for tracking and revisiting your suspended fixations — creative projects, intellectual obsessions, half-finished builds, forgotten puzzles, abandoned sparks.
 
 ![The Ember Index Screenshot](screenshot.png)
 
