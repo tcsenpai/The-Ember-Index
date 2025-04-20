@@ -56,7 +56,7 @@ Used to execute the logic behind each ritual (random selection, timestamping, lo
 
 ---
 
-### 2. [Buttons](https://github.com/shabegom/obsidian-buttons)
+### 2. [Buttons](https://github.com/shabegom/buttons)
 
 Used to add clickable buttons for summoning fragments inside your notes.
 
